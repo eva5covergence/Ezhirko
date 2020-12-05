@@ -1,0 +1,14 @@
+data/customdata/inputs/ppe_input_images/LImage_068.jpg
+data/customdata/inputs/ppe_input_images/LImage_069.jpg
+data/customdata/inputs/ppe_input_images/LImage_070.jpg
+data/customdata/inputs/ppe_input_images/LImage_071.jpg
+data/customdata/inputs/ppe_input_images/LImage_075.jpg
+data/customdata/inputs/ppe_input_images/LImage_076.jpg
+data/customdata/inputs/ppe_input_images/LImage_077.jpg
+data/customdata/inputs/ppe_input_images/LImage_081.jpg
+data/customdata/inputs/ppe_input_images/LImage_082.jpg
+data/customdata/inputs/ppe_input_images/LImage_078.jpg
+data/customdata/inputs/ppe_input_images/LImage_085.jpg
+data/customdata/inputs/ppe_input_images/LImage_086.jpg
+data/customdata/inputs/ppe_input_images/LImage_087.jpg
+data/customdata/inputs/ppe_input_images/LImage_088.jpg
